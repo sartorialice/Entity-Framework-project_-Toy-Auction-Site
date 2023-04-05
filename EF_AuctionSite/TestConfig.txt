@@ -1,0 +1,2 @@
+..\..\..\..\SartoriAuctionSiteLogic\bin\Debug\net6.0\SartoriAuctionSiteLogic.dll
+Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SartoriDB;Integrated Security=True;
